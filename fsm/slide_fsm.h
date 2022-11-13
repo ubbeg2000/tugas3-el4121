@@ -1,0 +1,1 @@
+void slide_fsm(int *state, int input_left, int input_right);

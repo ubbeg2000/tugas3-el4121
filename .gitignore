@@ -1,0 +1,6 @@
+*.csv
+*.exe
+*.docx
+*.tmp
+.vscode
+build
